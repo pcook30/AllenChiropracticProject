@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Project Template</title>
+<!-- TemplateEndEditable -->
+<link href="../project/project.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<table width="90%" border="0" align="center" cellpadding="5">
+  <tbody>
+    <tr>
+      <!--<td colspan="1"><img src="../images/DrAllentransparent.png" width="334" height="250" alt=""/></td>-->
+    </tr>
+    <tr>
+      <td id="temp_nav" width="21%" rowspan="2" valign="top"><img src="../images/DrAllentransparent.png" width="334" height="250" alt=""/><nav><a href="https://studentweb.kennesaw.edu/~ajett5/3260/project/projecthome.html">HOME</a>
+          <a href="https://studentweb.kennesaw.edu/~ajett5/3260/project/MeetDrAllen.html">MEET DR. ALLEN</a>
+	  <a href="#">WHAT TO EXPECT</a>
+      <a href="#">SERVICES</a>
+      <a href="#">REQUEST AN APPOINTMENT</a>
+      <a href="#">WELLNESS</a>
+      <a href="#">FAQ</a>
+      <a href="#">PRIVACY PRACTICES</a>
+	</nav>	
+	</td>
+      <td width="60%"><!-- TemplateBeginEditable name="pagetitle" -->pagetitle<!-- TemplateEndEditable --></td>
+      <td width="19%" rowspan="2" valign="top">
+
+	<section id="rightpanel">  
+	
+<!-- TemplateBeginEditable name="rightpanel" -->
+        <h2 style="text-align: center">OFFICE HOURS:        </h2>
+        <h4 align="center">Mon. - Wed. - Fri.<br>
+          9:00a.m. - 12:00p.m.<br>
+          2:00p.m. - 6:00p.m.</h4>
+        <h4 align="center">Sat.<br>
+          8:00a.m. - 11:00a.m. </h4>
+        <h2 style="text-align: center">CONTACT INFO:</h2>
+        <h4 align="center">Call our office:<br>
+          770-943-8409 <br>
+          <br>
+          Email Allen Chiropractic:</h4>
+        <p align="center">allen.chiropractic@bellsouth.net</p>
+	
+        <p>&nbsp;</p>
+	<!-- TemplateEndEditable -->
+		  
+	</section> 
+		  
+      </td>
+    </tr>
+    <tr>
+      <td height="380" width="60%" valign="top"><!-- TemplateBeginEditable name="maincontent" -->maincontent<!-- TemplateEndEditable --></td>
+    </tr>
+    
+  </tbody>
+</table>
+	
+<footer><a href="https://studentweb.kennesaw.edu/~ajett5/3260/project/projecthome.html">HOME</a> | <a href="mailto: allen.chiropractic@bellsouth.net">CONTACT US</a> | APPOINTMENTS | CREDITS</footer>
+</body>
+</html>
